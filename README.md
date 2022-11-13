@@ -1,16 +1,16 @@
 # SHORTCUTS-VS-CODE
 ⌨️Shortcuts for Visual Studio Code⌨️
 
-Editando yo
-Mayús+Ctrl+↵   Insertar línea arriba
-ctrl+↵                 Insertar línea debajo
-Mayús+Ctrl+K       Eliminar línea
-Mayús+alt+ARRIBA    Copiar fila
-Mayús+alt+ABAJO   Copiar línea hacia abajo
-alt+ARRIBA     Mover fila hacia arriba
-alt+ABAJO      Mover línea hacia abajo
+## Editando  
+ Mayús+Ctrl+↵   Insertar línea arriba 
+ ctrl+↵                 Insertar línea debajo
+ Mayús+Ctrl+K       Eliminar línea
+ Mayús+alt+ARRIBA    Copiar fila
+ Mayús+alt+ABAJO   Copiar línea hacia abajo
+ alt+ARRIBA     Mover fila hacia arriba
+ alt+ABAJO      Mover línea hacia abajo
  
-Edición II
+## Edición II
 Mayús+Ctrl+]  Desplegar región
 Mayús+Ctrl+[  Región de pliegue
 ctrl+[   línea de sangría
